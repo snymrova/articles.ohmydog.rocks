@@ -2,11 +2,11 @@
 # Banner
 banner:
   title: "The Ultimate Publishing Platform For Dog Lovers To Start Publishing Their Dog Experiences"
-  content: "OhMyDog Articles is a free publishing platform built to provide everything you need to publish your dog experiences and share them with the world."
+  content: "OhMyDog Articles is a free platform that makes it easy for you to share your dog stories and insights with a global community of dog lovers."
   image: "/images/banner.png"
   button:
     enable: true
-    label: "Get Started For Free"
+    label: "Start Sharing Your Dog Experiences Today"
     link: "https://github.com/zeon-studio/astroplate"
 
 # Features

@@ -1,7 +1,7 @@
 ---
 # Banner
 banner:
-  title: "The Ultimate Publishing Platform For Dog Experts They Need To Start Publishing Their Dog Experience"
+  title: "The Ultimate Publishing Platform For Dog Experts To Start Publishing Their Dog Experience"
   content: "OhMyDog Articles is a free publishing platform built to provide everything you need to publish your dog experience and save valuable time."
   image: "/images/banner.png"
   button:

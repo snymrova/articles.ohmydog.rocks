@@ -62,13 +62,14 @@ const call_to_action = await getSinglePage(
         </div>
         {
           banner.image && (
-            <div class="col-12">
+            <div class="col-12 flex justify-center">
               <ImageMod
                 src={banner.image}
                 height={380}
                 width={1200}
                 alt="banner"
                 format="webp"
+                class="mx-auto"
               />
             </div>
           )
